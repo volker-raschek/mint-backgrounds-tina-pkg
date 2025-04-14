@@ -1,7 +1,6 @@
 # mint-backgrounds-tina
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-tina?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-tina-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-tina-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-tina)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-tina`. Instead of building the
